@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LendoArquivoCsv/.vs/LendoArquivoCsv/DesignTimeBuild
+/LendoArquivoCsv/.vs/LendoArquivoCsv/FileContentIndex
+/LendoArquivoCsv/.vs/LendoArquivoCsv/v17
+/LendoArquivoCsv/.vs/ProjectEvaluation
+/LendoArquivoCsv/bin/Debug/net7.0
+/LendoArquivoCsv/obj
+/TestCreatAquivoCsv/.vs
+/TestCreatAquivoCsv/bin/Debug/net7.0
+/TestCreatAquivoCsv/obj
